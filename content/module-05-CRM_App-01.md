@@ -15,6 +15,7 @@ In this Module, we will build a simple CRM application that uses many key featur
 - Code splitting
 - AoT (ahead of time compilation)
 - Module bundling
+- State Management
 
 ### Finished Code for the CRM Module
 ```
